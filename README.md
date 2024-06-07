@@ -1,1 +1,1 @@
-### Códigos feitos para os desafios de Código do BootCamp da plataforma DIO.
+### Código feito para o desafio de Código do BootCamp da plataforma DIO.
